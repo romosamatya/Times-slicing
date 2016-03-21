@@ -172,7 +172,7 @@
 <section class="inner-section clients">
 		<div class="section-wrapper">
 			<div class="container">
-				<h3 class="section-title"><span>WHAT OUR CLIENT</span></h3>
+				<h3 class="section-title"><span>WHAT OUR CLIENT SAYS</span></h3>
 				<h2 class="section-des"><span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
 				 sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</span></h2>
 
